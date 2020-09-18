@@ -116,7 +116,7 @@ projects:
 
       - title: Expense Tracker
         link: "https://expense-tracker-e8733.web.app/"
-        tagline: "•	An expense tracker developed to let the user track their daily expenses with this compact application."
+        tagline: "An expense tracker developed to let the user track their daily expenses with this compact application."
         
       - title: Digital Reflections
         link: "http://digitalreflectionss.com/"
@@ -160,10 +160,10 @@ skills:
       - name: jQuery
         level: 95%
 
-      - name: React.js
+      - name: React.js & Node.js
         level: 85%
 
-      - name: C and Java
+      - name: C & Java
         level: 80%
 
 # footer: >

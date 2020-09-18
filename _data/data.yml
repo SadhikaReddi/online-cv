@@ -94,9 +94,6 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: SecCharge (Secure Electric Vehicle Ecosystem for Smart Grid) 
         link: "https://www.ontario.ca/document/projects-funded-smart-grid-fund/electric-vehicle-integration"
@@ -163,7 +160,10 @@ skills:
       - name: React.js & Node.js
         level: 85%
 
-      - name: C & Java
+      - name: C  
+        level: 80%
+        
+      - name: Java
         level: 80%
 
 # footer: >

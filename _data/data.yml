@@ -49,51 +49,29 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Experienced in Software Development from 2 years in internships and projects, looking forward to being a part of your organization
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Master of Digital Transformation and Innovation
+      university: University of Ottawa
+      time: 2019 - Present
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        Program focusing on the integration of information technologies with business processes and strategies.
+    - degree: Bachelor of Engineering in Electronics and Communication Engineering 
+      university: Jawaharlal Nehru Technological University, Kakinada
+      time: 2015-2019
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+       Program focusing on Advanced Sciences and Mathematics, Electronics, Telecommunication, Networking and Programming. 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Front-End Developer Intern
+      time: March 2020 – June 2020 
+      company: Vancouver, British Columbia                                               
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+       
+          - Developed new functionality and features in line with functional specifications and business requirements
+          -	Designed and implemented the user interface using HTML5, CSS3, JavaScript, and React.js
+          - Used AJAX and JSON to make asynchronous calls to the project server to fetch data on the fly.
+          - Involved with bug fixing on functionality, performance, and designing issues with JavaScript jQuery, HTML5, CSS3, and React.js.
+          - Used NPM (Node Package Manager) for Node.js development
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London

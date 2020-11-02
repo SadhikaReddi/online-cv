@@ -126,13 +126,13 @@ projects:
         link: "https://sadhikareddi879352.invisionapp.com/board/WhatsApp-ckgwdrib60aml17zzqf7685bt"
         tagline: "Redesigned WhatsApp as part of a project course ‘Visual Literacy & User Experience Design Principles’ at University of Ottawa."
 
-publications:
+#publications:
     title: Publications
     intro: |
       You can list your publications in this section. Lorem ipsum dolor sit
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
-    papers:
+   # papers:
       - title: The Art of Computer Programming
         link: "#"
         authors: Donald E. Knuth

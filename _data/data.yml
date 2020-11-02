@@ -122,9 +122,9 @@ projects:
         link: "https://expense-tracker-e8733.web.app/"
         tagline: "An expense tracker developed to let the user track their daily expenses with this compact application."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Redesign of WhatsApp
+        link: "https://sadhikareddi879352.invisionapp.com/board/WhatsApp-ckgwdrib60aml17zzqf7685bt"
+        tagline: "Redesigned WhatsApp as part of a project course ‘Visual Literacy & User Experience Design Principles’ at University of Ottawa."
 
 publications:
     title: Publications

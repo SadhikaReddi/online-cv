@@ -62,17 +62,18 @@ education:
       details: |
        Program focusing on Advanced Sciences and Mathematics, Electronics, Telecommunication, Networking and Programming. 
 experiences:
-    - role: Front-End Developer Intern
+    - role: UI/UX Developer Intern
       time: March 2020 – June 2020 
       company: Vancouver, British Columbia                                               
       details: |
        
-          - Redesigned a website by implementing UX design principles for better user interactivity.
-          -	Designed and implemented the user interface using HTML5, CSS3, JavaScript, and React.js
-          - By using AJAX and JSON asynchronous calls to the project server to fetch data on the fly were made.
-          - Fixed bugs related to functionality, performance, and designing issues with JavaScript jQuery, HTML5, CSS3, and React.js.
-          - Used NPM (Node Package Manager) for Node.js development
-    - role: Software Developer       
+          - Redesigned a marketing website using UX design principles for better user interactivity.
+          - My responsibilities included creating wireframes, mood board, concept sketches and user flows using gestalt principles.
+          - HTML, CSS, JavaScript and React.js were used for the implementation of the website.
+          -	Used NPM (Node Package Manager) for Node.js development.
+          
+          
+    - role: Software Developer Intern    
       time: June 2018 – June 2019 
       company: Gallega Software Solutions 
       details: |
@@ -115,10 +116,8 @@ projects:
         link: "https://expense-tracker-e8733.web.app/"
         tagline: "An expense tracker developed to let the user track their daily expenses with this compact application."
         
-      - title: Digital Reflections
-        link: "http://digitalreflectionss.com/"
-        tagline: "An online e-commerce website providing newspapers, magazines, articles and journals on a monthly subscription developed as part of a course at the University of Ottawa."
-
+      - title: WhatsApp Redesign
+        tagline: "Redesigned WhatsApp as part of a project course ‘Visual Literacy & User Experience Design Principles’ at University of Ottawa with 13 new features".
 # publications:
 #     title: Publications
 #     intro: |

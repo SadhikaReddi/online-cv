@@ -113,6 +113,7 @@ projects:
         tagline: "An expense tracker developed to let the user track their daily expenses with this compact application."
         
       - title: WhatsApp Redesign
+        link:
         tagline: "Redesigned WhatsApp as part of a project course ‘Visual Literacy & User Experience Design Principles’ at University of Ottawa with 13 new features".
 # publications:
 #     title: Publications

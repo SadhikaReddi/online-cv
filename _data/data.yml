@@ -104,13 +104,13 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
+      #You can list your side projects or open source libraries in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: SecCharge (Secure Electric Vehicle Ecosystem for Smart Grid)
+        link: "https://www.ontario.ca/document/projects-funded-smart-grid-fund/electric-vehicle-integration"
+        tagline: "SecCharge is a major project under Ontario government with funding of $768,350, partnered with IBM Canada – limited and Hydro Ottawa – limited."
 
       - title: DevStudio
         link: "#"

@@ -7,20 +7,20 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Sadhika Reedi
+    tagline: Software Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: sredd045@uottawa.ca
+    phone: 3437771434
+    website: https://sadhikareddi.github.io/
+    linkedin: www.linkedin.com/in/sadhikareddi
+    github: https://github.com/SadhikaReddi
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -48,16 +48,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+     Seeking for a Software Developer position in a fast-growing organization to utilize expertise in software development and testing, as well as deployment and support.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Masters of Digital Transformation and Innovation (MDTI)
+      university: University of Ottawa
+      time: 2019- 2020
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -66,9 +61,9 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree:Bachelor of Engineering in Electronics and Communication Engineering
+      university: Jawaharlal Nehru Technological University, Kakinada (2015-2019)
+      time: 2015 - 2019
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -78,43 +73,32 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: UI/UX Developer
+      time: March 2020 – June 2020 
+      company:  EvolveX, Vancouver, British Columbia                                                
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+          - Redesigned a marketing website using UX design principles for better user interactivity.
+          - My responsibilities included creating wireframes, mood board, concept sketches and user flows using gestalt principles.
+          - HTML, CSS, JavaScript and React.js were used for the implementation of the website.
+          - Used NPM (Node Package Manager) for Node.js development.
+    - role: Software Developer Intern 
+      time: June 2018 – June 2019 
+      company: Gallega Software Solutions 
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+          - The project involved the creation of a reactive, intuitive UI for a leading retail chain. The UI was required to function as the frontend of their existing set of APIs.
+          - Bootstrap, jQuery, HTML, Axios, and ReactJS were chosen as the solution stack.
+          - My responsibilities were to develop 2 UI modules that functioned as the front end for a set of APIs.
+          - The project received 100% CSAT for all 12 scrum cycles.
+    - role:    Network Engineer Intern
+      time: April 2017 – July 2018
+      company: BSNL (Bharat Sanchar Nigam Limited) 
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+     
+          - Worked in a team project to upgrade routers and switches to support moving from older TDM technology to IP networking.
+          - Managed and Cisco Unified Communication Manager (Voice) under guidance from Senior Engineer.
+          - Assisted with installing and troubleshooting network devices such as routers, switches, desktop, printer problems, and Network & Server support issues and assisted with Network Documentation (Using Visio).
+          - Validated accurate/complete incident information from the end customer.
+          
 projects:
     title: Projects
     intro: >

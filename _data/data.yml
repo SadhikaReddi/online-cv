@@ -7,40 +7,39 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Sadhika Reddi
-    tagline: Software Developer
-    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Alan Doe
+    tagline: Full Stack Developer
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: sredd045@uottawa.ca
-    phone: 3437771434
+    email: hello@webjeda.com
+    phone: 012 345 6789
     website: blog.webjeda.com #do not add http://
-    linkedin: www.linkedin.com/in/sadhikareddi
-    github: https://github.com/SadhikaReddi
-#     bitbucket:
-#     telegram: # add your nickname without '@' sign
-#     gitlab: https://github.com/SadhikaReddi
-#     bitbucket:
-#     twitter: '@webjeda'
-#     stack-overflow: # Number/Username, e.g. 123456/alandoe
-#     codewars:
-#     goodreads: # Number-Username, e.g. 123456-alandoe
+    linkedin: alandoe
+    github: sharu725
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    twitter: '@webjeda'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: English
-        level: Professional
-
-      - idiom: Telugu
         level: Native
 
-      - idiom: Hindi
-        level: Fluent
+      - idiom: French
+        level: Professional
+
+      - idiom: Spanish
+        level: Professional
 
     interests:
-      - item: Ancient Architecture
+      - item: Climbing
         link:
 
-      - item: Music
+      - item: Snowboarding
         link:
 
       - item: Cooking
@@ -49,118 +48,143 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Seeking for a Software Developer position in a fast-growing organization to utilize expertise in software development and testing, as well as deployment and support.
+      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. You can [download this free resume/CV template here]().
+      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      Donec quam felis, ultricies nec, pellentesque eu.
+      Second paragraph if required.
 education:
-    - degree: Master of Digital Transformation and Innovation
-      university: University of Ottawa
-      time: 2019 - Present
+    - degree: MSc in Computer Science
+      university: University of London
+      time: 2011 - 2012
       details: |
-        Program focusing on the integration of information technologies with business processes and strategies.
-    - degree: Bachelor of Engineering in Electronics and Communication Engineering 
-      university: Jawaharlal Nehru Technological University, Kakinada
-      time: 2015-2019
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
+    - degree: BSc in Applied Mathematics
+      university: Bristol University
+      time: 2007 - 2011
       details: |
-       Program focusing on Advanced Sciences and Mathematics, Electronics, Telecommunication, Networking and Programming. 
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
 experiences:
-    - role: UI/UX Developer Intern
-      time: March 2020 – June 2020 
-      company: EvoleX                                            
+    - role: Lead Developer
+      time: 2015 - Present
+      company: Startup Hubs, San Francisco
       details: |
-          - Redesigned a marketing website using UX design principles for better user interactivity.
-          - My responsibilities included creating wireframes, mood board, concept sketches and user flows using gestalt principles.
-          - HTML, CSS, JavaScript and React.js were used for the implementation of the website.
-        
-     -role: Software Developer Intern    
-      time: June 2018 – June 2019 
-      company: Gallega Software Solutions 
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+        error sit voluptatem accusantium doloremque laudantium, totam rem
+        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+        architecto beatae vitae dicta sunt explicabo.
+          - Bullet point
+          - Bullet point
+    - role: Senior Software Engineer
+      time: 2014 - 2015
+      company: Google, London
       details: |
-          - The project involved the creation of a reactive, intuitive UI for a leading retail chain. The UI was required to function as the frontend of their existing set of APIs.
-          - Bootstrap, jQuery, HTML, Axios, and ReactJS were chosen as the solution stack.
-          - My responsibilities were to develop 2 UI modules that functioned as the front end for a set of APIs, the modules had to make GET, POST, PUT, and DELETE HTTP requests to the backend, parse and display results additionally display the API performance metrics.
-          - The project received 100% CSAT for all 12 scrum cycles.
-    - role: Network Engineer Intern
-      time: April 2017 – July 2018
-      company: Bharat Sanchar Private Limited(BSNL)
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Bullet point
+          - Bullet point
+    - role: UI Developer
+      time: 2012 - 2014
+      company: Amazon, London
       details: |
-          - Worked in a team project to upgrade routers and switches to support moving from older TDM technology to IP networking.
-          - Managed and Cisco Unified Communication Manager (Voice) under guidance from Senior Engineer.
-          - Assisted with installing and troubleshooting network devices such as routers, switches, desktop, printer problems, and Network & Server support issues and assisted with Network Documentation (Using Visio).
-          - Validated accurate/complete incident information from the end customer.
-          
-          
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Bullet point
+          - Bullet point
 projects:
     title: Projects
     intro: >
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: SecCharge (Secure Electric Vehicle Ecosystem for Smart Grid) 
-        link: "https://www.ontario.ca/document/projects-funded-smart-grid-fund/electric-vehicle-integration"
-        tagline: "SecCharge is a major project under Ontario government with funding of $768,350, partnered with IBM Canada – limited and Hydro Ottawa – limited."
+      - title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: COVID-19 Tracker
-        link: "https://silly-swirles-12533a.netlify.app/"
-        tagline: "An interactive and reactive app to get the live COVID-19 statistics, designed using ReactJS, Bootstrap, Axios and open-source COVID-19 API."
+      - title: DevStudio
+        link: "#"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Weather Application
-        link: "https://github.com/SadhikaReddi/Weather-App"
-        tagline: "Created a compact weather app using Flutter UI kit and Dart programming language."
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Pipboy
-        link: "https://github.com/SadhikaReddi/PipBoy"
-        tagline: "Recreated Pipboy from fallout 4 game using HTML, CSS, JavaScript, jQuery and Bootstrap 4."
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Expense Tracker
-        link: "https://expense-tracker-e8733.web.app/"
-        tagline: "An expense tracker developed to let the user track their daily expenses with this compact application."
-        
-      - title: WhatsApp Redesign
-        link:
-        tagline: "Redesigned WhatsApp as part of a project course ‘Visual Literacy & User Experience Design Principles’ at University of Ottawa with 13 new features".
-# publications:
-#     title: Publications
-#     intro: |
-#       You can list your publications in this section. Lorem ipsum dolor sit
-#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-#       bibendum fringilla a eu lectus.
-#     papers:
-#       - title: The Art of Computer Programming
-#         link: "#"
-#         authors: Donald E. Knuth
-#         conference: Addison-Wesley, 1968
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-#         link: "#"
-#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+publications:
+    title: Publications
+    intro: |
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
+    papers:
+      - title: The Art of Computer Programming
+        link: "#"
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
 
-#       - title: A syntax directed compiler for Algol 60
-#         link: "#"
-#         authors: Edgar T. Irons
-#         conference: "Comm. ACM 4 (1961), 51–55"
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        link: "#"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+      - title: A syntax directed compiler for Algol 60
+        link: "#"
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python
+      - name: Python & Django
         level: 98%
 
-      - name: Javascript 
-        level: 95%
-
-      - name: HTML5 and CSS
+      - name: Javascript & jQuery
         level: 98%
 
-      - name: jQuery
+      - name: Angular
+        level: 98%
+
+      - name: HTML5 & CSS
         level: 95%
 
-      - name: React.js & Node.js
-        level: 80%
+      - name: Ruby on Rails
+        level: 85%
 
-      - name: C  
-        level: 80%
-        
-      - name: Java
-        level: 80%
+      - name: Sketch & Photoshop
+        level: 60%
 
-# footer: >
-#     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

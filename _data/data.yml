@@ -61,11 +61,11 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: Bachelor of Engineering in Electronics and Communication Engineering
+      university: Jawaharlal Nehru Technological University, Kakinada 
+      time: 2015 - 2019
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        #Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
         sociis natoque penatibus et magnis dis parturient montes, nascetur
         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
@@ -73,9 +73,9 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: UI/UX Developer Intern
+      time: March 2020 – June 2020 
+      company: EvolveX, Vancouver, British Columbia                                               
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -86,8 +86,9 @@ experiences:
         error sit voluptatem accusantium doloremque laudantium, totam rem
         aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
         architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+          - Redesigned a marketing website using UX design principles for better user interactivity.
+          - My responsibilities included creating wireframes, mood board, concept sketches and user flows using gestalt principles.
+          - HTML, CSS, JavaScript and React.js were used for the implementation of the website.
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London

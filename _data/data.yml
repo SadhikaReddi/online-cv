@@ -110,9 +110,9 @@ projects:
         link: "https://www.ontario.ca/document/projects-funded-smart-grid-fund/electric-vehicle-integration"
         tagline: "SecCharge is a major project under Ontario government with funding of $768,350, partnered with IBM Canada – limited and Hydro Ottawa – limited."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: COVID-19 Tracker
+        link: "https://silly-swirles-12533a.netlify.app/"
+        tagline: "An interactive and reactive app to get the live COVID-19 statistics, designed using ReactJS, Bootstrap, Axios and open-source COVID-19 API."
 
       - title: Tempo
         link: "#"

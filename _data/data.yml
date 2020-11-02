@@ -118,9 +118,9 @@ projects:
         link: "https://github.com/SadhikaReddi/Weather-App"
         tagline: "This app informs the user a live set of weather conditions for the city of Ottawa."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Expense Tracker
+        link: "https://expense-tracker-e8733.web.app/"
+        tagline: "An expense tracker developed to let the user track their daily expenses with this compact application."
 
       - title: Delta
         link: "#"

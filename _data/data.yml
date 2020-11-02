@@ -114,9 +114,9 @@ projects:
         link: "https://silly-swirles-12533a.netlify.app/"
         tagline: "An interactive and reactive app to get the live COVID-19 statistics, designed using ReactJS, Bootstrap, Axios and open-source COVID-19 API."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Weather Application
+        link: "https://github.com/SadhikaReddi/Weather-App"
+        tagline: "This app informs the user a live set of weather conditions for the city of Ottawa."
 
       - title: Atom
         link: "#"

@@ -62,7 +62,7 @@ education:
       details: |
        Program focusing on Advanced Sciences and Mathematics, Electronics, Telecommunication, Networking and Programming. 
 experiences:
-   - role: UI/UX Developer Intern
+    - role: UI/UX Developer Intern
       time: March 2020 – June 2020 
       company: EvoleX                                            
       details: |
@@ -70,7 +70,6 @@ experiences:
           - My responsibilities included creating wireframes, mood board, concept sketches and user flows using gestalt principles.
           - HTML, CSS, JavaScript and React.js were used for the implementation of the website.
         
-          
      -role: Software Developer Intern    
       time: June 2018 – June 2019 
       company: Gallega Software Solutions 

@@ -81,17 +81,15 @@ experiences:
           - Redesigned a marketing website using UX design principles for better user interactivity.
           - My responsibilities included creating wireframes, mood board, concept sketches and user flows using gestalt principles.
           - HTML, CSS, JavaScript and React.js were used for the implementation of the website.
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Software Developer Intern
+      time: June 2018 – June 2019 
+      company: Gallega Software Solutions – IT Consulting                                  
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+       
+          - Implemented python program to periodically retrieve JSON data using REST API, clean and update the data in excel file.
+          - Generated graphs for business decision making using Python matplotlib library.
+          - Worked on minor bug fixes and testing (unittest).
+          - Used Analytical Python libraries like Pandas and NumPy to work on Data Manipulations and Analysis.
     - role: UI Developer
       time: 2012 - 2014
       company: Amazon, London

@@ -9,18 +9,18 @@ sidebar:
     # Profile information
     name: Sadhika Reddi
     tagline: Software Developer
-    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: sredd045@uottawa.ca
-    phone: 343 777 1434
-    website: sadhikareddi.github.io/ #do not add http://
-    linkedin: www.linkedin.com/in/sadhikareddi
-    github: SadhikaReddi
+    email: hello@webjeda.com
+    phone: 012 345 6789
+    website: blog.webjeda.com #do not add http://
+    linkedin: alandoe
+    github: sharu725
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: #'@webjeda'
+    twitter: '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -29,17 +29,17 @@ sidebar:
       - idiom: English
         level: Native
 
-      - idiom: Hindi
+      - idiom: French
         level: Professional
 
-      - idiom: Telugu
+      - idiom: Spanish
         level: Professional
 
     interests:
-      - item: Ancient Architecture
+      - item: Climbing
         link:
 
-      - item: Music
+      - item: Snowboarding
         link:
 
       - item: Cooking
@@ -48,24 +48,29 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-    Seeking for a Software Developer position in a fast-growing organization to utilize expertise in software development and testing, as well as deployment and support.
+      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. You can [download this free resume/CV template here]().
+      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      Donec quam felis, ultricies nec, pellentesque eu.
+      Second paragraph if required.
 education:
-    - degree: Master of Digital Transformation and Innovation (MDTI)
-      university: University of Ottawa 
-      time: 2019 - 2020
+    - degree: MSc in Computer Science
+      university: University of London
+      time: 2011 - 2012
       details: |
-        #Describe your study here lorem ipsum dolor sit amet, consectetuer
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
         sociis natoque penatibus et magnis dis parturient montes, nascetur
         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: Bachelor of Engineering in Electronics and Communication Engineering
-      university: Jawaharlal Nehru Technological University, Kakinada 
-      time: 2015 - 2019
+    - degree: BSc in Applied Mathematics
+      university: Bristol University
+      time: 2007 - 2011
       details: |
-        #Describe your study here lorem ipsum dolor sit amet, consectetuer
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
         sociis natoque penatibus et magnis dis parturient montes, nascetur
         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
@@ -73,7 +78,7 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: UI/UX Developer Intern
+    - role: Lead Developer
       time: 2015 - Present
       company: Startup Hubs, San Francisco
       details: |

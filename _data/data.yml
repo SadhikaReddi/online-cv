@@ -66,18 +66,15 @@ experiences:
       time: March 2020 – June 2020 
       company: Vancouver, British Columbia                                               
       details: |
-       
           - Redesigned a marketing website using UX design principles for better user interactivity.
           - My responsibilities included creating wireframes, mood board, concept sketches and user flows using gestalt principles.
           - HTML, CSS, JavaScript and React.js were used for the implementation of the website.
           -	Used NPM (Node Package Manager) for Node.js development.
           
-          
-    - role: Software Developer Intern    
+      role: Software Developer Intern    
       time: June 2018 – June 2019 
       company: Gallega Software Solutions 
       details: |
-      
           - The project involved the creation of a reactive, intuitive UI for a leading retail chain. The UI was required to function as the frontend of their existing set of APIs.
           - Bootstrap, jQuery, HTML, Axios, and ReactJS were chosen as the solution stack.
           - My responsibilities were to develop 2 UI modules that functioned as the front end for a set of APIs, the modules had to make GET, POST, PUT, and DELETE HTTP requests to the backend, parse and display results additionally display the API performance metrics.

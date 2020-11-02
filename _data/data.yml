@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Sadhika Reddi
     tagline: Software Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: sredd045@uottawa.ca
@@ -29,10 +29,10 @@ sidebar:
       - idiom: English
         level: Native
 
-      - idiom: French
+      - idiom: Hindi
         level: Professional
 
-      - idiom: Spanish
+      - idiom: Telugu
         level: Professional
 
     interests:
@@ -48,16 +48,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+    Seeking for a Software Developer position in a fast-growing organization to utilize expertise in software development and testing, as well as deployment and support.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Master of Digital Transformation and Innovation
+      university: University of Ottawa 
+      time: 2019 - 2020
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum

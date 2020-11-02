@@ -15,8 +15,8 @@ sidebar:
     email: sredd045@uottawa.ca
     phone: 343 777 1434
     website: sadhikareddi.github.io/ #do not add http://
-    linkedin: Sadhika Reddi
-    github: sharu725
+    linkedin: www.linkedin.com/in/sadhikareddi
+    github: https://github.com/SadhikaReddi
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -36,10 +36,10 @@ sidebar:
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: Ancient Architecture
         link:
 
-      - item: Snowboarding
+      - item: Music
         link:
 
       - item: Cooking

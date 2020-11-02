@@ -9,18 +9,18 @@ sidebar:
     # Profile information
     name: Sadhika Reddi
     tagline: Software Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: sredd045@uottawa.ca
+    phone: 343 777 1434
+    website: sadhikareddi.github.io/ #do not add http://
+    linkedin: 
+    github: SadhikaReddi
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: #'@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -29,17 +29,17 @@ sidebar:
       - idiom: English
         level: Native
 
-      - idiom: French
+      - idiom: Hindi
         level: Professional
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: Telugu
+        level: Native
 
     interests:
-      - item: Climbing
+      - item: Ancient Architecture
         link:
 
-      - item: Snowboarding
+      - item: Music
         link:
 
       - item: Cooking

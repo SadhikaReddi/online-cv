@@ -104,7 +104,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
+      #You can list your side projects or open source libraries in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
@@ -112,29 +112,29 @@ projects:
         link: "https://www.ontario.ca/document/projects-funded-smart-grid-fund/electric-vehicle-integration"
         tagline: "SecCharge is a major project under Ontario government with funding of $768,350, partnered with IBM Canada – limited and Hydro Ottawa – limited."
 
-      - title: COVID-19 Tracker:
-        link: "https://silly-swirles-12533a.netlify.app/"
-        tagline: "An interactive and reactive app to get the live COVID-19 statistics, designed using ReactJS, Bootstrap, Axios and open-source COVID-19 API."
+      - title: DevStudio
+        link: "#"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Weather Application:
-        link: "https://github.com/SadhikaReddi/Weather-App"
-        tagline: "Created a compact weather app using Flutter UI kit and Dart programming language."
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Pipboy
-        link: "https://github.com/SadhikaReddi/PipBoy"
-        tagline: "Recreated Pipboy from fallout 4 game using HTML, CSS, JavaScript, jQuery and Bootstrap 4. "
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Expense Tracker
-        link: "https://expense-tracker-e8733.web.app/"
-        tagline: "An expense tracker developed to let the user track their daily expenses with this compact application."
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-#publications:
-   # title: Publications
-    #intro: |
+publications:
+    title: Publications
+    intro: |
       You can list your publications in this section. Lorem ipsum dolor sit
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
-   # papers:
+    papers:
       - title: The Art of Computer Programming
         link: "#"
         authors: Donald E. Knuth
@@ -154,11 +154,11 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python 
+      - name: Python & Django
         level: 98%
 
       - name: Javascript & jQuery
-        level: 90
+        level: 98%
 
       - name: Angular
         level: 98%
